@@ -13,7 +13,7 @@
 First clone the repository:
 
 ```bash
-$ git clone git@gitlab.omilia.com:web-tools/chat-js-sdk.git
+$ git clone git@github.com:omilia/omilia-sample-sdk.git
 $ cd omilia-sample-sdk
 ```
 
