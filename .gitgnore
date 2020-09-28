@@ -2,6 +2,7 @@
 # Created by https://www.gitignore.io/api/node,webstorm,macos,test
 
 ### macOS ###
+.DS_Store
 *.DS_Store
 .AppleDouble
 .LSOverride
@@ -88,11 +89,6 @@ typings/
 
 .jshintignore
 .jshintrc
-
-# Dist dir
-dist/
-mc_dist/
-
 
 ### Test ###
 ### Ignore all files that could be used to test your code and
